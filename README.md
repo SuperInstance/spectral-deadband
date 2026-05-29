@@ -190,3 +190,5 @@ All tests pass with no dependencies. The test suite covers:
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
