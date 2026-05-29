@@ -1,0 +1,10 @@
+[package]
+name = "spectral-deadband"
+version = "0.1.0"
+edition = "2021"
+description = "Deadband as spectral gap. Spin as time abstraction. Fractal conservation. Analog dial computation. Pure Rust, zero deps."
+license = "MIT"
+
+[lib]
+name = "spectral_deadband"
+path = "src/lib.rs"
