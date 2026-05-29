@@ -190,3 +190,12 @@ All tests pass with no dependencies. The test suite covers:
 ## License
 
 MIT
+
+## Ecosystem Integration
+
+- Implements spectral deadband detection — identifying near-zero eigenvalue gaps in graph spectra
+- Uses `spectral-graph-core` for eigendecomposition utilities
+- Paired with `neyman-pearson-gap` for statistically rigorous gap testing
+- Part of the spectral analysis stack for structural graph characterization
+- Enables automated detection of spectral transitions in dynamic graphs
+
